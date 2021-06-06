@@ -32,9 +32,3 @@ setTimeout(()=>{
 }
 },3000);
  
-// rpaniten random number uh love calculator bmi calculator la paniyachey
-//fb like button antha mathri click pana like color ila antha mathri eriyanum again click pana ponum
-//vera ena iruku unga molaila avalo use panni solungalen perusa soliruva :Dunga moola sze vena en moola size pothum en moolayum sirusu tha hahaha seri ok inaiku eppadiyo mudistom nxt en clg ppt clg class la ipovum nadakutha  ama ama njy haha oru quiz game eppadi oru 
-//idea?  ithum perusa tha irukum polaama ama  last anupunathu? athu ena per per la thrla  ila ena athula pandrathu.. range vechu panina amount yerumaa ama ithayum panitingala ena ila ila range use panirken aana athua number add pandrathu ithu apo doubts iruku apo ithayae panirunga hehe done ye okiee  okj done ye polama 
-//js la ena topic ini ungaluku?  async await vanthrucha?
-//https://www.frontendmentor.io/challenges/interactive-pricing-component-t0m8PIyY8 itha panunga antha slide pana athula irukra value melayo kilayo sidleayo katanum avlotha
